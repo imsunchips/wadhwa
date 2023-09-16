@@ -20,7 +20,7 @@ author: Sanchit Wadhwa
 ###############################################
 
 navbar-links:
-  Home: "https://imsunchips.github.io/wadhwa.github.io/"
+  #Home: "https://imsunchips.github.io/wadhwa.github.io/"
   About Me: "aboutme"
   Resume: "resume.sanchitwadhwa.com
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
