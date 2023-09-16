@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to work with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome !
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Sanchit Wadhwa, you can also call me Sunchip. I work with data and do things like data warehouse development, database management, automation, power bi, data integrations.
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
