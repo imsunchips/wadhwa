@@ -20,9 +20,9 @@ author: Sanchit Wadhwa
 ###############################################
 
 navbar-links:
-  Home: "https://imsunchips.github.io/wadhwa.github.io/"
+  Home: "https://sanchitwadhwa.com"
   About Me: "aboutme"
-  Resume: "resume.sanchitwadhwa.com"
+  Resume: "https://resume.sanchitwadhwa.com"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
 
