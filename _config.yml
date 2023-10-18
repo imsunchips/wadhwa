@@ -21,7 +21,7 @@ author: Sanchit Wadhwa
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Resume: "https://imsunchips.github.io/resume/"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
