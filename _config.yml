@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -90,8 +90,8 @@ rss-description: On this website you will find great articles about data warehou
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: flase
+  #twitter: false
+  #facebook: flase
   linkedin: true
   #vk: false
 
@@ -112,7 +112,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+#edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
