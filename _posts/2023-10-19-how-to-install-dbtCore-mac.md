@@ -1,4 +1,3 @@
-# How to Install dbtCore on Macbook
 
 > By [Sanchit Wadhwa](sanchitwadhwa.com)
 

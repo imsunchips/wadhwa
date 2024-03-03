@@ -1,4 +1,3 @@
-# Quick guide to install and configure Postgres Universal on Macbook M1
 
 > By [Sanchit Wadhwa](sanchitwadhwa.com)
 
