@@ -13,7 +13,7 @@
 title: Sanchit Wadhwa
 
 # Your name to show in the footer
-author: Sanchit Wadhwa
+author: imSunchip
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -90,8 +90,8 @@ rss-description: On this website you will find great articles about data warehou
 
 # Select which social network share links to show in posts
 share-links-active:
-  #twitter: false
-  #facebook: flase
+  twitter: true
+  facebook: true
   linkedin: true
   #vk: false
 
