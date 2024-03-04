@@ -21,10 +21,7 @@ author: imSunchip
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  #Services: "services"
-  About Me: "aboutme"
-    - Resume: "https://imsunchips.github.io/resume/"
-    - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
+  Resume: "https://imsunchips.github.io/resume/"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
 
