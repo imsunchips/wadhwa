@@ -21,7 +21,7 @@ author: imSunchip
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  Services: "services"
+  #Services: "services"
   About Me: "aboutme"
     - Resume: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
