@@ -26,7 +26,7 @@ navbar-links:
     - Data Management: "datamanagement"
     - Process Improvement: "processimprovement"
   About Me:
-    - Resume: "https://imsunchips.github.io/resume/"
+    - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
   Contact Me: "contactme"
 
