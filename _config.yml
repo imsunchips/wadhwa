@@ -21,9 +21,13 @@ author: imSunchip
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  Resume: "https://imsunchips.github.io/resume/"
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Services:
+    - Data Engineering:
+    - Data Management:
+  About Me:
+    - Resume: "https://imsunchips.github.io/resume/"
+    - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
+
 
 
 ################
