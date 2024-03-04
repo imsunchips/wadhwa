@@ -22,7 +22,7 @@ author: imSunchip
 navbar-links:
   Home: "https://sanchitwadhwa.com"
   Services:
-    - Data Engineering:
+    - Data Engineering: "dataengineering"
     - Data Management:
   About Me:
     - Resume: "https://imsunchips.github.io/resume/"
