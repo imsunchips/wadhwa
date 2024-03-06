@@ -25,6 +25,7 @@ navbar-links:
     - Data Engineering: "dataengineering"
     - Data Management: "datamanagement"
     - Data Warehouse: "datawarehouse"
+    - Database Administration: "databaseadmin"
     #- Process Improvement: "processimprovement"
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
