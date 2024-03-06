@@ -24,7 +24,8 @@ navbar-links:
   Services:
     - Data Engineering: "dataengineering"
     - Data Management: "datamanagement"
-    - Process Improvement: "processimprovement"
+    - Data Warehouse: "datawarehouse"
+    #- Process Improvement: "processimprovement"
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
