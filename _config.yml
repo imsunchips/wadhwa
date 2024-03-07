@@ -25,8 +25,9 @@ navbar-links:
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
-  Contact Me: "contactme"
-  Book Me: "calendly"
+  Connect:
+    - Message Me: "contactme"
+    - Meet Me: "calendly"
 
 
 
