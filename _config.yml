@@ -21,11 +21,11 @@ author: imSunchip
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  Services:
-    - Data Engineering: "/services/dataengineering"
-    - Data Management: "/services/datamanagement"
-    - Data Warehouse: "/services/datawarehouse"
-    - Database Administration: "databaseadmin"
+  Services: "services.md"
+    #- Data Engineering: "/services/dataengineering"
+    #- Data Management: "/services/datamanagement"
+    #- Data Warehouse: "/services/datawarehouse"
+    #- Database Administration: "databaseadmin"
     #- Process Improvement: "processimprovement"
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
