@@ -16,12 +16,6 @@ Let me help you and your team with the following services:
 ⭐ Data Management\
 ⭐ Database Administration
 
-
-<div style="text-align: center;">
-
-🤝 <h1>Schedule a meeting</h1>
-
-</div>
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
