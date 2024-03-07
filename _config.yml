@@ -21,7 +21,7 @@ author: imSunchip
 
 navbar-links:
   Home: "https://sanchitwadhwa.com"
-  Services: "services.md"
+  Services: "services"
     #- Data Engineering: "/services/dataengineering"
     #- Data Management: "/services/datamanagement"
     #- Data Warehouse: "/services/datawarehouse"
