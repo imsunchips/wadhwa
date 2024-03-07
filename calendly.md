@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule time with me
-subtitle: 
+title: 
+subtitle: Schedule a meeting
 ---
 
 <!-- Calendly inline widget begin -->
