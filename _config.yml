@@ -22,9 +22,9 @@ author: imSunchip
 navbar-links:
   Home: "https://sanchitwadhwa.com"
   Services:
-    - Data Engineering: "dataengineering"
-    - Data Management: "datamanagement"
-    - Data Warehouse: "datawarehouse"
+    - Data Engineering: "/services/dataengineering"
+    - Data Management: "/services/datamanagement"
+    - Data Warehouse: "/services/datawarehouse"
     - Database Administration: "databaseadmin"
     #- Process Improvement: "processimprovement"
   About Me:
