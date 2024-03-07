@@ -14,7 +14,7 @@ Let me help you and your team with the following services:
 ⭐ Data Warehouse\
 ⭐ Data Engineering\
 ⭐ Data Management\
-⭐ Database Administration\
+⭐ Database Administration
 
 
 👉 Schedule a meeting 🤝
