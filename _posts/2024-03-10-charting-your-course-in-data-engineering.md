@@ -2,11 +2,8 @@
 layout: post
 title: Charting Your Course in Data Engineering
 subtitle: Strategies for Success
-#cover-img: /assets/imgblog/do-it-anyway.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
 tags: [data,dataengineer,engineer,success,aspire,data-engineer]
-author: Sanchit Wadhwa (sunchip)
+author: Sanchit Wadhwa
 ---
 
 In the rapidly expanding realm of data engineering, aspiring professionals often find themselves inundated with a plethora of technologies, methodologies, and industry standards. The journey to becoming a proficient data engineer can be both exhilarating and daunting, requiring a balance of technical prowess and soft skills. To navigate this path successfully, it's essential to heed some guiding principles that illuminate the way forward.

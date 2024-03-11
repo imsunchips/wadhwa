@@ -3,10 +3,8 @@ layout: post
 title: Embrace Initiative - Do It Anyway
 subtitle: It is Rewarding to be Proactive
 cover-img: /assets/imgblog/do-it-anyway.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
 tags: [proactive,change,growth,initiative]
-author: Sanchit Wadhwa (sunchip)
+author: Sanchit Wadhwa
 ---
 
 Whether you're just stepping onto the career ladder, navigating a new job, or entrenched in the professional realm for years, it's almost inevitable to stumble upon processes that seem off-kilter. You've likely voiced your concerns to your superiors, only to find some receptive while others brushed them aside. It's a frustrating cycle, and you're not alone.

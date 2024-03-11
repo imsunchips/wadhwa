@@ -13,7 +13,7 @@
 title: Sanchit Wadhwa
 
 # Your name to show in the footer
-author: imSunchip
+#author: imSunchip
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -25,6 +25,7 @@ navbar-links:
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
+    #- Certifications: "certifications"
   Connect:
     - Message Me: "contactme"
     - Meet Me: "calendly"
@@ -95,7 +96,7 @@ rss-description: On this website you will find great articles about data warehou
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  #facebook: true
   linkedin: true
   #vk: false
 

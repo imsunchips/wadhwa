@@ -2,11 +2,8 @@
 layout: post
 title: The Value of Timing Creativity in Problem-Solving
 subtitle: Strategic Creativity - Maximizing Impact in Problem-Solving
-#cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
 tags: [creativity,learn,growth,solutions,problems]
-author: Sanchit Wadhwa (sunchip)
+author: Sanchit Wadhwa
 ---
 
 In many professional realms, the expectation to constantly be creative and innovative can be overwhelming. However, the reality is that being creative all the time may not always yield the best results or rewards. While creativity certainly has its place, it's important to recognize when to employ it effectively.
