@@ -22,9 +22,11 @@ title: Sanchit Wadhwa
 navbar-links:
   Home: "https://sanchitwadhwa.com"
   Services: "services"
+  Reviews: "reviews"
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
+    - ReadingList: "readinglist"
     #- Certifications: "certifications"
   Connect:
     - Message Me: "contactme"
