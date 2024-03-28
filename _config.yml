@@ -25,7 +25,7 @@ navbar-links:
   About Me:
     - Experience: "https://imsunchips.github.io/resume/"
     - LinkedIn: "https://www.linkedin.com/in/wadhwasanchit/"
-    - ReadingList: "readinglist"
+    - Book List: "readinglist"
     #- Certifications: "certifications"
   Connect:
     - Message Me: "contactme"
