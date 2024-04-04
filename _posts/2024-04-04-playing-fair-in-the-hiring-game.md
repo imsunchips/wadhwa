@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Job Quest: Playing Fair in the Hiring Game
+title: Job Quest - Playing Fair in the Hiring Game
 subtitle: Transparency and Respect in the Hiring Process
 tags: [hire,hiring,hr,trust,fair,transparency,respect,process,candidates,employment,jobs,interview]
 author: Sanchit Wadhwa
