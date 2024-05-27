@@ -2,6 +2,7 @@
 layout: post
 title: Seven Steps to be Successful in a New Job
 subtitle: doing it right
+cover-img: /assets/imgblog/do-something-great.jpg
 tags: [success,new-job,job,seven-steps,successful,right,steps]
 author: Sanchit Wadhwa
 ---
