@@ -2,6 +2,7 @@
 layout: page
 title: Reading List
 subtitle: sharing books I read
+tags: [read,learn,grow,books,title,author,develop,change]
 ---
 
 |Title | Author |
